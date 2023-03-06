@@ -11,5 +11,5 @@ The concept of this plugin is very simple. There are **three types of jobs**: Hu
 This plugin was made **during a series of youtube** videos, in which I explain **step by step** how to **achieve this result.** This plugin is **open source** you can use it as you wish, but **don't say you made it.**
 
 # Link
-My series: [Videos](https://www.youtube.com/watch?v=21Ld7mQwh6M)
+My serie: [Videos](https://www.youtube.com/watch?v=21Ld7mQwh6M)
 My server discord: [Discord](https://discord.com/invite/F8MUXZEy59)
