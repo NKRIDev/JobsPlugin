@@ -1,6 +1,6 @@
 # JobsPlugin
 
-It is a minecraft jobs plugin. Data is stored in an **sql database**. The plugin was created with the spigot version **1.8.8** and more version of spigot.
+It is a minecraft jobs plugin. Data is stored in an **sql database**. The plugin was created with the spigot version **1.8.8** and more versions of spigot.
 
 # About
 
